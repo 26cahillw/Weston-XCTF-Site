@@ -1,0 +1,97 @@
+html {
+    scroll-behavior: smooth;
+}
+title {
+    font-family: 'Times New Roman';
+    font-size: 1em;
+}
+body {
+    padding: 0%;
+    margin: 0%;
+}
+.intro-page {
+    background-color: white;
+    font-size: 10vw;
+
+}
+
+.intro-page img {
+    width: 25%;
+    height: 25%
+}
+
+.intro-page button {
+    font-family: 'Times New Roman';
+    color: white;
+    background-color:  #8E1B1C;
+    text-align: left;
+    padding:1%;
+    margin-top:0%;
+    border-radius: 5%;
+    height:2%;
+    width:8%;
+    text-align: center;
+    border-color: black;
+    font-size: 1vw;
+    text-decoration: bold;
+
+}
+
+.intro-page .ellipse {
+    color: #8E1B1C;
+}
+
+.about-us {
+    background-color: #8E1B1C;
+    font-size: 1ems;
+
+}
+
+.merch {
+    background-color: white;
+
+}
+
+.schedule {
+    background-color: #8E1B1C;
+   
+    
+}
+
+.gallery {
+    background-color: white;
+
+}
+
+.contact-information {
+    background-color:#8E1B1C;
+
+}
+
+.footer {
+    background-color: white;
+
+}
+
+/* @keyframes for animations */
+
+/* 
+.hover:active {
+    animation: keyframes time-lasts forward/backward/infinite time-to=do
+
+}
+
+.hover:focus {
+
+}
+
+.hover:disabled {
+
+}
+
+.hover:hover {
+
+}
+*/
+
+/* this is just notes about animation for myself*/ 
